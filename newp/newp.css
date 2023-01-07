@@ -1,0 +1,198 @@
+.main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+*{
+    margin: 0%;
+}
+.wrapper{
+    width: 90%;
+    height: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.rightside{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.images{
+    height: 95%;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+
+}
+.holder{
+    width: 100%;
+    height: 75%;
+    background-color: white;
+    border-radius: 10px;
+}
+.holder img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.botton-image{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.img1{
+    width: 15%;
+    height: 60%;
+    background-color: azure;
+    border-radius: 10px;
+    opacity: 50%;
+}
+.img1 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+}
+.img2{
+    width: 15%;
+    height: 60%;
+    background-color: azure;
+    border-radius: 10px;
+}
+.img2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+}
+.leftside{
+    width: 40%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+}
+.box{
+    width: 100%;
+    height: 50vh;
+}
+.textstyle{
+    color: orange;
+    display: flex;
+}
+.holder1{
+    width: 100%;
+    height: 24vh;
+    display: flex;
+    align-items: center;
+}
+.holder2{
+    width: 88%;
+    height: 20vh;
+}
+.text2{
+    font-size: 40px;
+}
+.box1{
+    width: 100%;
+    height: 16vh;
+    display: flex;
+    align-items: center;
+}
+.holder3{
+    width: 88%;
+    height: 14vh;
+}
+.box2{
+    width: 36%;
+    height: 4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.box3{
+    width: 25%;
+    height: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    opacity: 40%;
+    border-radius: 5px;
+}
+.text4{
+    color: orange;
+}
+.small125{
+    width: 17%;
+    height: 21px;
+    opacity: 50%;
+}
+.box4{
+    width: 91%;
+    height: 19vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box5{
+    width: 40%;
+    height: 5vh;
+    background-color: lightgray;
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    opacity: 50%;
+    cursor: pointer;
+    
+}
+.h5{
+    font-size: 18px;
+    color: orangered;
+}
+.box6{
+    width: 58%;
+    height: 5vh;
+    background-color: orangered;
+    border-radius: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.good{
+    width: 5%;
+    height: 2vh;
+}
+.addtocart{
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.shopicon{
+    width: 10%;
+    height: 3vh;
+}
+.atcicon{
+    width: 80%;
+    height: 3vh;
+    border-radius: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ac{
+    color: white;
+}
